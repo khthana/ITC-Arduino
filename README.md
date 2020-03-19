@@ -37,3 +37,12 @@
     <li> <a href="https://create.arduino.cc/projecthub/connornishijima/tone-with-8-bit-volume-control-no-extra-components-370c66?ref=platform&ref_id=424_recent___&offset=8">Tone() with 8-bit Volume Control </a></li>
   </ol> 
 
+<h2>Robot </h2>
+<ol>
+  <li> <a href="https://www.facebook.com/groups/248804759327872/permalink/295699811305033/">คลิปการแข่งขัน Maze Runner </a></li>  
+  <li> <a href="https://www.instructables.com/id/SMARTPHONE-CONTROLLED-ROBOT-USING-BLE-40-/?fbclid=IwAR29miQnXxocnD0syK2yWMxKFcAdHk2_vFhQHyx5Jjn3rdmpHoHi2tfVg3g">SMARTPHONE CONTROLLED ROBOT </a></li>
+  <li> <a href="https://www.facebook.com/krumonrobot/videos/2779247108756002/">การแข่งหุ่นยนต์ระดับกลาง ม.ปลาย </a></li>
+  <li> <a href="https://www.facebook.com/watch/?v=482581338920494">#iBITRobotKit </a></li>
+  </ol> 
+ 
+ 

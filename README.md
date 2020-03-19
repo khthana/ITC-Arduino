@@ -26,5 +26,14 @@
     <li> <a href="http://www.princebot.net/article/12/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A-pid-%E0%B8%A2%E0%B9%89%E0%B8%B3%E0%B8%99%E0%B8%B0%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87-555?fbclid=IwAR2NVzwmXdKiw4FscjEYYgxv3u5igfzFLtJnnEiq31QDFzd4GaytqM1-DLo">ตัวอย่างโปรแกรมหุ่นยนต์เดินตามเส้นแบบ PID</a></li>
 
 </ol> 
-  
+
+<h2>Sound </h2>
+<ol>
+    <li> <a href="http://chiptuneminute.blogspot.com/">CHIPTUNEMINUTE </a></li>
+    <li> <a href="https://makezine.com/projects/make-35/advanced-arduino-sound-synthesis/">Skill Builder: Advanced Arduino Sound Synthesis </a></li>  
+    <li> <a href="https://blog.yavilevich.com/2016/08/arduino-sound-level-meter-and-spectrum-analyzer/">Arduino sound level meter and spectrum analyzer </a></li>
+    <li> <a href="https://www.instructables.com/id/Arduino-Pulse-Width-Modulation-Digital-to-Analog-C/">Arduino Pulse-Width Modulation Digital to Analog Conversion </a></li>
+    <li> <a href="http://pcarduino.blogspot.com/2013/11/arduino-r-2r-ladder-audio-dac.html">Arduino R-2R ladder Audio DAC </a></li>  
+    <li> <a href="https://create.arduino.cc/projecthub/connornishijima/tone-with-8-bit-volume-control-no-extra-components-370c66?ref=platform&ref_id=424_recent___&offset=8">Tone() with 8-bit Volume Control </a></li>
+  </ol> 
 

@@ -43,6 +43,23 @@
   <li> <a href="https://www.instructables.com/id/SMARTPHONE-CONTROLLED-ROBOT-USING-BLE-40-/?fbclid=IwAR29miQnXxocnD0syK2yWMxKFcAdHk2_vFhQHyx5Jjn3rdmpHoHi2tfVg3g">SMARTPHONE CONTROLLED ROBOT </a></li>
   <li> <a href="https://www.facebook.com/krumonrobot/videos/2779247108756002/">การแข่งหุ่นยนต์ระดับกลาง ม.ปลาย </a></li>
   <li> <a href="https://www.facebook.com/watch/?v=482581338920494">#iBITRobotKit </a></li>
+  <li> <a href="https://www.facebook.com/watch/?v=289365478400888">ตัวอย่าง </a></li>  
   </ol> 
  
- 
+<h2>ทั่วไป </h2>
+<ol>
+    <li> <a href="https://www.facebook.com/watch/?v=548443945598391">LED Matrix Flow </a></li>  
+    <li> <a href="https://www.youtube.com/watch?v=2DZSj8b2RGw">Plotclock </a></li>   
+    <li> <a href="http://narong.ece.engr.tu.ac.th/microlab/document/index.php">เอกสารประกอบการเรียน การอินเตอร์เฟสไมโครโปรเซสเซอร์ </a></li>   
+    <li> <a href="https://create.arduino.cc/projecthub/22warehamD/3-bit-binary-calculator-using-arduino-uno-e9d93b">3-Bit Binary Calculator </a></li>   
+    <li> <a href="https://www.instructables.com/id/Homebrew-Arduino-Pulse-Monitor-Visualize-Your-Hear/">Homebrew Arduino Pulse Monitor </a></li>   
+    <li> <a href="https://www.youtube.com/watch?v=3kZPqMbo1SY&feature=youtu.be">CD-ROM Stepper Motor with Arduino Motor Shield L293d </a></li>     
+    <li> <a href="https://www.youtube.com/watch?v=ETPhiqBqXEY&feature=youtu.be">Mini Robot Car </a></li>  
+    <li> <a href="https://www.facebook.com/watch/?v=1048763375276008">DIY Pinball Game Machine </a></li>  
+    <li> <a href="https://www.youtube.com/watch?v=MCYJAyIXBdA">Servo Robotic arm </a></li>    
+    <li> <a href="https://www.instructables.com/id/Make-Your-Own-1D-Pong-Game/">Make Your Own 1D Pong Game </a></li>  
+    <li> <a href="https://www.arduitronics.com/article/61/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%88%E0%B8%AD%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%9F%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2-nokia-5110">การใช้งานจอแสดงผลกราฟิกโนเกีย (NOKIA 5110) </a></li>  
+    <li> <a href="https://www.bloggang.com/mainblog.php?id=zol&month=12-07-2009&group=10&gblog=119">State Machine</a></li>  
+    <li> <a href="https://www.elprocus.com/heartbeat-sensor-working-application/">Heartbeat Sensor </a></li>    
+    <li> <a href="https://www.mcucity.com/product/864/sn-2549-xh2-54-sm-plug-terminal-spring-clamp-terminals-crimping-tool-crimping-pliers-for-d-sub-termi-2">SN-2549 XH2.54 </a></li>    
+  </ol>    

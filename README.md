@@ -10,6 +10,9 @@
 
 <h2>Clock </h2>
 <ol>
-    <li> <a href="https://www.instructables.com/id/Arduino-Modules-L298N-Dual-H-Bridge-Motor-Controll/">Arduino Modules - L298N Dual H-Bridge Motor Controller</a></li>
-  
+    <li> <a href="https://123led.wordpress.com/mini-led-clock/">Mini LED Clock</a></li>
+    <li> <a href="https://github.com/ioxhop/32x8-Dot-Matrix-Clock/tree/master/Clock_ESP8266">32x8-Dot-Matrix-Clock</a></li>  
+    <li> <a href="https://www.youtube.com/user/mrcybero/search?query=DOT">Dot Matrix แสดงภาษาไทย</a></li>
+    <li> <a href="https://www.youtube.com/watch?v=dzuMXUQwKx8&feature=youtu.be">Nodemcu ( esp8266 ) and max7219 led matrix display</a></li>  
+    <li> <a href="https://www.youtube.com/watch?v=GjYIhbgLgCc">การเขียนโปรแกรม Arduino ติดต่อกับ Dotmatrix</a></li>  
 </ol>    

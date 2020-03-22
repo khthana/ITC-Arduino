@@ -55,9 +55,17 @@
     <li> <a href="http://noderedsupotsaeea.blogspot.com/2017/01/ibeacon-hm10-ble-bluetooth-low-energy.html">iBeacon ด้วย HM10 BLE (Bluetooth Low Energy)  </a></li> 
  </ol> 
  
+ <h2>Timer </h2>
+<ol>
+    <li> <a href="http://exploreembedded.com/wiki/AVR_Timer_Interrupts">AVR Timer Interrupts  </a></li>    
+    <li> <a href="https://exploreembedded.com/wiki/AVR_Timer_programming">AVR Timer programming   </a></li>    
+    <li> <a href="https://menglab.blogspot.com/2018/06/timer1.html?m=1&fbclid=IwAR19pEAIHbdNqHlYlcuVS3bGg2D3Fqc9xmtM0lg5PPiOW4jM1oXkp8dGLDQ">ทดลองใช้งาน Timer1 บนอาดุยโน่   </a></li>      
+</ol>   
+ 
 <h2>ทั่วไป </h2>
 <ol>
     <li> <a href="https://www.facebook.com/watch/?v=548443945598391">LED Matrix Flow </a></li>  
+    <li> <a href="https://www.youtube.com/watch?v=NlbvbDItu1M">ป้ายไฟวิ่งเล็กควบคุมผ่าน App Android </a></li>    
     <li> <a href="https://www.youtube.com/watch?v=2DZSj8b2RGw">Plotclock </a></li>   
     <li> <a href="http://narong.ece.engr.tu.ac.th/microlab/document/index.php">เอกสารประกอบการเรียน การอินเตอร์เฟสไมโครโปรเซสเซอร์ </a></li>   
     <li> <a href="https://create.arduino.cc/projecthub/22warehamD/3-bit-binary-calculator-using-arduino-uno-e9d93b">3-Bit Binary Calculator </a></li>   
@@ -74,4 +82,6 @@
     <li> <a href="http://www.falstad.com/circuit/circuitjs.html">Circuit Simulator </a></li>  
     <li> <a href="http://arduinolearning.com/code/multi-function-shield-examples.php">multi function shield examples </a></li>    
     <li> <a href="https://eleceasy.com/t/pwm-phase-shitf-arduino/615?u=archer&fbclid=IwAR2RwIsnQVzpUj7Xgh6tUPCasMSXzszcGAkdA8LDw6l60_TX0PXP_BaTV-E">การสร้างสัญญาณ พัลส์วิดท์มอดูเลชั่น (PWM) แบบ Phase shitf ด้วย Arduino </a></li>    
+    <li> <a href="https://github.com/olehs/PZEM004T?fbclid=IwAR0wEkSl6YYlXnZSZkSbzD4rrbrs5xzqeZpltDSQ3GwBxBGzI1RR3HW6MzQ">Arduino communication library for Peacefair PZEM-004T Energy monitor  </a></li>  
+    <li> <a href="https://blog.arduino.cc/2018/12/10/this-one-button-device-can-do-many-things/">This one-button device can do many things </a></li>  
   </ol>    

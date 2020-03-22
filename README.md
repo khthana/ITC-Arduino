@@ -1,4 +1,4 @@
-# ITC
+# ITC & Arduino
 
 <h2>Motor </h2>
 <ol>
@@ -46,6 +46,13 @@
   <li> <a href="https://www.facebook.com/watch/?v=289365478400888">ตัวอย่าง </a></li>  
   <li> <a href="https://www.instructables.com/id/InstaBots-Upright-Rover/">SainSmart InstaBots Upright Rover(Self-Balancing Robot With Arduino) </a></li>    
   </ol> 
+  
+<h2>Bluetooth </h2>
+<ol>
+    <li> <a href="https://mcuoneclipse.com/2013/06/19/using-the-hc-06-bluetooth-module/">Using the HC-06 Bluetooth Module </a></li> 
+    <li> <a href="https://archive.cmmakerclub.com/2016/10/micro/arduino-2/arduino-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%A5%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%97%E0%B8%B9%E0%B8%98-hc05-%E0%B9%81%E0%B8%A5/">ตั้งค่าโมดูลบลูทูธ HC05 และ HC06 เพื่อติดต่อสื่อสารกันด้วย AT Command </a></li>   
+    <li> <a href="http://noderedsupotsaeea.blogspot.com/2017/01/ibeacon-hm10-ble-bluetooth-low-energy.html">iBeacon ด้วย HM10 BLE (Bluetooth Low Energy)  </a></li> 
+ </ol> 
  
 <h2>ทั่วไป </h2>
 <ol>

@@ -35,6 +35,7 @@
     <li> <a href="https://www.instructables.com/id/Arduino-Pulse-Width-Modulation-Digital-to-Analog-C/">Arduino Pulse-Width Modulation Digital to Analog Conversion </a></li>
     <li> <a href="http://pcarduino.blogspot.com/2013/11/arduino-r-2r-ladder-audio-dac.html">Arduino R-2R ladder Audio DAC </a></li>  
     <li> <a href="https://create.arduino.cc/projecthub/connornishijima/tone-with-8-bit-volume-control-no-extra-components-370c66?ref=platform&ref_id=424_recent___&offset=8">Tone() with 8-bit Volume Control </a></li>
+    <li> <a href="https://www.instructables.com/id/Arduino-Audio-Output/">Arduino Audio Output</a></li>  
   </ol> 
 
 <h2>Robot </h2>
@@ -72,4 +73,5 @@
     <li> <a href="https://www.mcucity.com/product/864/sn-2549-xh2-54-sm-plug-terminal-spring-clamp-terminals-crimping-tool-crimping-pliers-for-d-sub-termi-2">SN-2549 XH2.54 </a></li>    
     <li> <a href="http://www.falstad.com/circuit/circuitjs.html">Circuit Simulator </a></li>  
     <li> <a href="http://arduinolearning.com/code/multi-function-shield-examples.php">multi function shield examples </a></li>    
+    <li> <a href="https://eleceasy.com/t/pwm-phase-shitf-arduino/615?u=archer&fbclid=IwAR2RwIsnQVzpUj7Xgh6tUPCasMSXzszcGAkdA8LDw6l60_TX0PXP_BaTV-E">การสร้างสัญญาณ พัลส์วิดท์มอดูเลชั่น (PWM) แบบ Phase shitf ด้วย Arduino </a></li>    
   </ol>    

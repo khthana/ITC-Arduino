@@ -44,6 +44,7 @@
   <li> <a href="https://www.facebook.com/krumonrobot/videos/2779247108756002/">การแข่งหุ่นยนต์ระดับกลาง ม.ปลาย </a></li>
   <li> <a href="https://www.facebook.com/watch/?v=482581338920494">#iBITRobotKit </a></li>
   <li> <a href="https://www.facebook.com/watch/?v=289365478400888">ตัวอย่าง </a></li>  
+  <li> <a href="https://www.instructables.com/id/InstaBots-Upright-Rover/">SainSmart InstaBots Upright Rover(Self-Balancing Robot With Arduino) </a></li>    
   </ol> 
  
 <h2>ทั่วไป </h2>
@@ -62,4 +63,6 @@
     <li> <a href="https://www.bloggang.com/mainblog.php?id=zol&month=12-07-2009&group=10&gblog=119">State Machine</a></li>  
     <li> <a href="https://www.elprocus.com/heartbeat-sensor-working-application/">Heartbeat Sensor </a></li>    
     <li> <a href="https://www.mcucity.com/product/864/sn-2549-xh2-54-sm-plug-terminal-spring-clamp-terminals-crimping-tool-crimping-pliers-for-d-sub-termi-2">SN-2549 XH2.54 </a></li>    
+    <li> <a href="http://www.falstad.com/circuit/circuitjs.html">Circuit Simulator </a></li>  
+    <li> <a href="http://arduinolearning.com/code/multi-function-shield-examples.php">multi function shield examples </a></li>    
   </ol>    

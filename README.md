@@ -48,6 +48,8 @@
   <li> <a href="https://www.instructables.com/id/InstaBots-Upright-Rover/">SainSmart InstaBots Upright Rover(Self-Balancing Robot With Arduino) </a></li>    
   <li> <a href="https://www.instructables.com/id/Arduino-Self-Balancing-Robot-1/?fbclid=IwAR0GhxMe6stV3ckEICx9YI5F6jkDXjyIZXFTp3wGXKFYKbfdRrUqtId0wLU">Arduino Self-Balancing Robot</a></li>      
   <li> <a href="https://www.youtube.com/watch?v=ETPhiqBqXEY&fbclid=IwAR10eX_h0YlIIHorL2tO662mTfQun0A1aRjzYKv1ebtaX-Qgm9Y03PthtLw">Mini Robot Car </a></li>    
+  <li> <a href="https://circuitdigest.com/microcontroller-projects/arduino-based-self-balancing-robot?fbclid=IwAR04Ub61W0Xh3NxR3Vi8CqqGMzwj_lMzpiTOMSvCRGp4_YwMF3Khw6Lveew">DIY Self Balancing Robot using Arduino </a></li>  
+  <li> <a href="https://www.facebook.com/watch/?v=289365478400888">ตัวอย่าง </a></li>    
   </ol> 
   
 <h2>Bluetooth </h2>
@@ -63,6 +65,17 @@
     <li> <a href="https://exploreembedded.com/wiki/AVR_Timer_programming">AVR Timer programming   </a></li>    
     <li> <a href="https://menglab.blogspot.com/2018/06/timer1.html?m=1&fbclid=IwAR19pEAIHbdNqHlYlcuVS3bGg2D3Fqc9xmtM0lg5PPiOW4jM1oXkp8dGLDQ">ทดลองใช้งาน Timer1 บนอาดุยโน่   </a></li>      
 </ol>   
+ 
+<h2>CNC </h2>
+<ol> 
+    <li> <a href="https://www.zonemaker.com/">สินค้าโดย MAKER เพื่อ MAKER </a></li> 
+    <li> <a href="https://www.instructables.com/id/DIY-Arduino-Drawing-Machine/">DIY Arduino CNC Drawing Machine </a></li> 
+    <li> <a href="https://aofcnc.blogspot.com/">cnc เด็กหัดเดิน  </a></li> 
+    <li> <a href="http://panmaneecnc.blogspot.com/2017/04/cnc-controller-estlcam.html">Minicnc  </a></li> 
+    <li> <a href="https://create.arduino.cc/projecthub/me_zain/mini-arduino-cnc-7e4e30?ref=platform&ref_id=424_recent_30days__&offset=7">Mini Arduino CNC </a></li> 
+    <li> <a href="https://www.facebook.com/watch/?v=361326701170840">EggBot </a></li>   
+    <li> <a href="https://hackaday.com/2018/09/16/drawbot-badge-represents-the-cnc-world-in-badge-design/?fbclid=IwAR2vH6CknObMbmIQS4-zJtGG3SmvESfHda_eEAvmeM2Q4w30W6dAWlu2gVg">DrawBot </a></li>   
+    <li> <a href="https://www.youtube.com/watch?v=nkO8--Zyl8w&fbclid=IwAR3f64QE2mOCTIzxP_FgYciMMt97FSWsZyr6h0VVZEfCqPCv75O7VAEZucU">How To Make Homework Writing Machine at Home </a></li>     
  
 <h2>ทั่วไป </h2>
 <ol>
@@ -96,7 +109,10 @@
     <li> <a href="http://www.electronoobs.com/eng_arduino_tut63.php?fbclid=IwAR09D-h0XavxAQ-vi1lUhhiHmCmAlDhEyAYamHiF4M8BOk4eMwLRMLH6BFQ">Oscilloscope draw - XY mode  </a></li>  
     <li> <a href="https://www.youtube.com/watch?v=KfP_LfUiwdc&fbclid=IwAR1gwhPs3V4jM2zdkK1OFHYs5KiXjAehDzVs3wxYUnwvPfScq5gZx_KRrEQ">Hungry Robot  </a></li>  
     <li> <a href="https://blog.arduino.cc/2018/09/19/ardosc-is-a-matchbox-sized-arduino-nano-based-oscilloscope/?fbclid=IwAR3sRk4mz2_SfvrqY1hDHchuS0GrstTrfmB9LpBQZZbCisKuFFexOXTUaLM">ArdOsc is a matchbox-sized, Arduino Nano-based oscilloscope </a></li>    
-    <li> <a href="https://www.facebook.com/watch/?v=548443945598391">LED Matrix Flow </a></li>    
-    <li> <a href="https://www.facebook.com/watch/?v=548443945598391">LED Matrix Flow </a></li>    
-    <li> <a href="https://www.facebook.com/watch/?v=548443945598391">LED Matrix Flow </a></li>      
+    <li> <a href="https://www.facebook.com/groups/arduino.thai/permalink/2096062827103150/">config ค่าต่างๆ ผ่าน Serial Port </a></li>    
+    <li> <a href="https://www.facebook.com/watch/?v=267197853955660">It's A Bot Time </a></li>    
+    <li> <a href="https://www.iot.eng.kmutnb.ac.th/pub/docs/2018/learning_with_arduino/">แนวทางการเรียนรู้ด้านระบบสมองกลฝังตัวด้วย Arduino  </a></li>      
+    <li> <a href="https://www.playbotix.com/2018/12/usbasp.html?m=1&fbclid=IwAR19oOWbo67TcCTXV-H13B-9Iif_yj60Nt-ZNdVcXFQA1b1BOwEWWe1xCc8">Burning Bootloader  </a></li>    
+    <li> <a href="https://www.facebook.com/groups/448555958824892/permalink/890088838004933/">Bootloader </a></li>      
+    <li> <a href="https://www.youtube.com/watch?v=o9LO2ACAcVs&fbclid=IwAR18pahKUwSdsdszv9Ws3ZFV08zlY2yIhiQaGtegmCojIysbSMOfBf2nZ6g">การทำนาฬิกาใบพัดโดยใช้ NodeMCU เบื้องต้น </a></li>     
   </ol>    

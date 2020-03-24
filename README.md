@@ -24,7 +24,7 @@
     <li> <a href="https://www.youtube.com/watch?v=fusr9eTceEo">Hardware Demo of a Digital PID Controller</a></li>
     <li> <a href="https://github.com/br3ttb/Arduino-PID-AutoTune-Library">Arduino-PID-AutoTune-Library</a></li>
     <li> <a href="http://www.princebot.net/article/12/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A-pid-%E0%B8%A2%E0%B9%89%E0%B8%B3%E0%B8%99%E0%B8%B0%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87-555?fbclid=IwAR2NVzwmXdKiw4FscjEYYgxv3u5igfzFLtJnnEiq31QDFzd4GaytqM1-DLo">ตัวอย่างโปรแกรมหุ่นยนต์เดินตามเส้นแบบ PID</a></li>
-
+    <li> <a href="https://github.com/QuadTinnakon/Segway_Mega2560_V3">Segway_Mega2560_V3 </a></li>
 </ol> 
 
 <h2>Sound </h2>
@@ -46,6 +46,8 @@
   <li> <a href="https://www.facebook.com/watch/?v=482581338920494">#iBITRobotKit </a></li>
   <li> <a href="https://www.facebook.com/watch/?v=289365478400888">ตัวอย่าง </a></li>  
   <li> <a href="https://www.instructables.com/id/InstaBots-Upright-Rover/">SainSmart InstaBots Upright Rover(Self-Balancing Robot With Arduino) </a></li>    
+  <li> <a href="https://www.instructables.com/id/Arduino-Self-Balancing-Robot-1/?fbclid=IwAR0GhxMe6stV3ckEICx9YI5F6jkDXjyIZXFTp3wGXKFYKbfdRrUqtId0wLU">Arduino Self-Balancing Robot</a></li>      
+  <li> <a href="https://www.youtube.com/watch?v=ETPhiqBqXEY&fbclid=IwAR10eX_h0YlIIHorL2tO662mTfQun0A1aRjzYKv1ebtaX-Qgm9Y03PthtLw">Mini Robot Car </a></li>    
   </ol> 
   
 <h2>Bluetooth </h2>
@@ -84,4 +86,17 @@
     <li> <a href="https://eleceasy.com/t/pwm-phase-shitf-arduino/615?u=archer&fbclid=IwAR2RwIsnQVzpUj7Xgh6tUPCasMSXzszcGAkdA8LDw6l60_TX0PXP_BaTV-E">การสร้างสัญญาณ พัลส์วิดท์มอดูเลชั่น (PWM) แบบ Phase shitf ด้วย Arduino </a></li>    
     <li> <a href="https://github.com/olehs/PZEM004T?fbclid=IwAR0wEkSl6YYlXnZSZkSbzD4rrbrs5xzqeZpltDSQ3GwBxBGzI1RR3HW6MzQ">Arduino communication library for Peacefair PZEM-004T Energy monitor  </a></li>  
     <li> <a href="https://blog.arduino.cc/2018/12/10/this-one-button-device-can-do-many-things/">This one-button device can do many things </a></li>  
+    <li> <a href="https://www.instructables.com/id/Oscilloscope-in-a-Matchbox-Arduino/">Oscilloscope in a Matchbox </a></li>
+    <li> <a href="https://blog.arduino.cc/2018/06/01/ultrasonic-arduino-to-arduino-communication/">Ultrasonic Arduino-to-Arduino Communication </a></li>
+    <li> <a href="https://www.instructables.com/id/Making-the-Spielatron-Robotic-Glockenspiel/">Making the Spielatron </a></li>
+    <li> <a href="https://www.facebook.com/watch/?v=10155504756781641">Arduino Engineering Kit Drawing Robot </a></li>
+    <li> <a href="https://hackaday.com/2018/07/25/juggling-machine-listens-to-the-bounce-to-keep-ball-in-the-air/?fbclid=IwAR09sVKAtq2QPv7FkyIqzEqYKvd76IFLjfITn9n_qzUtFTw4pxtOTJsQ7qI">Juggling Machine Listens To The Bounce To Keep Ball In The Air </a></li>  
+    <li> <a href="https://blog.arduino.cc/2018/07/25/ping-pong-ball-bounces-forever-under-arduino-control/?fbclid=IwAR0c0LnN-ysCngc3f8WfDfq7As2XrrUlZvB2BiSD3jQuc4ENqrZyjSfCFUQ">Ping pong ball bounces forever under Arduino control </a></li>  
+    <li> <a href="https://www.youtube.com/watch?v=Ogm3ITBxkL8&fbclid=IwAR012KkuiUKlJ8AWY21KX0ou5GNx-73o7uJ424pNpAdmp4BAy0eWHKk6n-k">TOP 10 Arduino-Servo Motor Projects | 2018 </a></li>  
+    <li> <a href="http://www.electronoobs.com/eng_arduino_tut63.php?fbclid=IwAR09D-h0XavxAQ-vi1lUhhiHmCmAlDhEyAYamHiF4M8BOk4eMwLRMLH6BFQ">Oscilloscope draw - XY mode  </a></li>  
+    <li> <a href="https://www.youtube.com/watch?v=KfP_LfUiwdc&fbclid=IwAR1gwhPs3V4jM2zdkK1OFHYs5KiXjAehDzVs3wxYUnwvPfScq5gZx_KRrEQ">Hungry Robot  </a></li>  
+    <li> <a href="https://blog.arduino.cc/2018/09/19/ardosc-is-a-matchbox-sized-arduino-nano-based-oscilloscope/?fbclid=IwAR3sRk4mz2_SfvrqY1hDHchuS0GrstTrfmB9LpBQZZbCisKuFFexOXTUaLM">ArdOsc is a matchbox-sized, Arduino Nano-based oscilloscope </a></li>    
+    <li> <a href="https://www.facebook.com/watch/?v=548443945598391">LED Matrix Flow </a></li>    
+    <li> <a href="https://www.facebook.com/watch/?v=548443945598391">LED Matrix Flow </a></li>    
+    <li> <a href="https://www.facebook.com/watch/?v=548443945598391">LED Matrix Flow </a></li>      
   </ol>    

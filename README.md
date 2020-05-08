@@ -81,6 +81,7 @@
 <h2>ทั่วไป </h2>
 <ol>
     <li> <a href="https://www.facebook.com/watch/?v=548443945598391">LED Matrix Flow </a></li>  
+    <li> <a href="https://www.dmcinfo.com/latest-thinking/blog/id/9484/arduino-programming-with-vscode">Arduino Programming with VSCode </a></li>    
     <li> <a href="https://www.youtube.com/watch?v=NlbvbDItu1M">ป้ายไฟวิ่งเล็กควบคุมผ่าน App Android </a></li>    
     <li> <a href="https://www.youtube.com/watch?v=2DZSj8b2RGw">Plotclock </a></li>   
     <li> <a href="http://narong.ece.engr.tu.ac.th/microlab/document/index.php">เอกสารประกอบการเรียน การอินเตอร์เฟสไมโครโปรเซสเซอร์ </a></li>   

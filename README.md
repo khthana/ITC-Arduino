@@ -117,4 +117,5 @@
     <li> <a href="https://www.playbotix.com/2018/12/usbasp.html?m=1&fbclid=IwAR19oOWbo67TcCTXV-H13B-9Iif_yj60Nt-ZNdVcXFQA1b1BOwEWWe1xCc8">Burning Bootloader  </a></li>    
     <li> <a href="https://www.facebook.com/groups/448555958824892/permalink/890088838004933/">Bootloader </a></li>      
     <li> <a href="https://www.youtube.com/watch?v=o9LO2ACAcVs&fbclid=IwAR18pahKUwSdsdszv9Ws3ZFV08zlY2yIhiQaGtegmCojIysbSMOfBf2nZ6g">การทำนาฬิกาใบพัดโดยใช้ NodeMCU เบื้องต้น </a></li>     
+    <li> <a href="https://www.iot.eng.kmutnb.ac.th/pub/docs/electronics_and_coding_labs/?fbclid=IwAR0olp-18mgUNjyGBHrNl96v3CBcB0FYjYsLOX4Xf_4Bz4obPHVXQienISU">เอกสารประกอบการบรรยาย: ตัวอย่างกิจกรรมการเรียนรู้  </a></li>     
   </ol>    

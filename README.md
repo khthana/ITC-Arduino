@@ -80,6 +80,7 @@
 
 <h2>ทั่วไป </h2>
 <ol>
+    <li> <a href="https://www.facebook.com/groups/arduino.thai/permalink/3117072668335489/">ทำ programmer สำหรับเบิร์นโค้ด arduino </a></li>      
     <li> <a href="https://www.facebook.com/iot.kmutnb/posts/479693739318052">10 เทคนิคในการเขียนโค้ดภาษา C ทำให้ LED บนบอร์ด Ardiuno กระพริบ </a></li>    
     <li> <a href="https://www.facebook.com/watch/?v=548443945598391">LED Matrix Flow </a></li>  
     <li> <a href="https://www.dmcinfo.com/latest-thinking/blog/id/9484/arduino-programming-with-vscode">Arduino Programming with VSCode </a></li>    

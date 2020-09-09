@@ -58,6 +58,7 @@
   <li> <a href="https://www.youtube.com/watch?v=ETPhiqBqXEY&fbclid=IwAR10eX_h0YlIIHorL2tO662mTfQun0A1aRjzYKv1ebtaX-Qgm9Y03PthtLw">Mini Robot Car </a></li>    
   <li> <a href="https://circuitdigest.com/microcontroller-projects/arduino-based-self-balancing-robot?fbclid=IwAR04Ub61W0Xh3NxR3Vi8CqqGMzwj_lMzpiTOMSvCRGp4_YwMF3Khw6Lveew">DIY Self Balancing Robot using Arduino </a></li>  
   <li> <a href="https://www.facebook.com/watch/?v=289365478400888">ตัวอย่าง </a></li>    
+  <li> <a href="https://www.instructables.com/id/Making-the-Spielatron-Robotic-Glockenspiel/">Making the Spielatron (Robotic Glockenspiel) ติ้งหน่อง</a></li>      
   </ol> 
   
 <h2>Bluetooth </h2>
